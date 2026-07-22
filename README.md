@@ -89,10 +89,14 @@ purchase_patterns_and_retention_trends.png
 
 ---
 
-## Output Files
+## Output Files and Screenshots
 
 - `cleaned_ecommerce_dataset.csv`
 - `purchase_patterns_and_retention_trends.png`
+<img width="832" height="453" alt="Screenshot 2026-07-23 001255" src="https://github.com/user-attachments/assets/b5f2e044-d597-4036-8ff2-af097b35e990" />
+<img width="836" height="423" alt="Screenshot 2026-07-23 001329" src="https://github.com/user-attachments/assets/7416286c-9909-4a46-ba83-c0fa4b0ea1ac" />
+<img width="1032" height="782" alt="Screenshot 2026-07-23 001411" src="https://github.com/user-attachments/assets/cb5493d8-529f-450f-9c58-f9af137e6c9b" />
+
 
 ---
 
