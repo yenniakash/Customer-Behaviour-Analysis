@@ -92,12 +92,14 @@ purchase_patterns_and_retention_trends.png
 ## Output Files and Screenshots
 
 - `cleaned_ecommerce_dataset.csv`
+
+<img width="1920" height="1200" alt="Screenshot 2026-07-23 004440" src="https://github.com/user-attachments/assets/95110dfd-341f-4ce0-8d11-cd3781fbbf67" />
+<img width="687" height="737" alt="Screenshot 2026-07-23 004638" src="https://github.com/user-attachments/assets/0aabf142-445a-4615-85aa-cde3ba055db0" />
+<img width="1075" height="852" alt="Screenshot 2026-07-23 004707" src="https://github.com/user-attachments/assets/9541c573-ef98-4c38-8089-f7e91bdf18fc" />
+
 - `purchase_patterns_and_retention_trends.png`
-<img width="832" height="453" alt="Screenshot 2026-07-23 001255" src="https://github.com/user-attachments/assets/b5f2e044-d597-4036-8ff2-af097b35e990" />
-<img width="836" height="423" alt="Screenshot 2026-07-23 001329" src="https://github.com/user-attachments/assets/7416286c-9909-4a46-ba83-c0fa4b0ea1ac" />
-<img width="1032" height="782" alt="Screenshot 2026-07-23 001411" src="https://github.com/user-attachments/assets/cb5493d8-529f-450f-9c58-f9af137e6c9b" />
-
-
+<img width="1693" height="662" alt="Screenshot 2026-07-23 003510" src="https://github.com/user-attachments/assets/831e548c-dea9-4984-9f7f-d789a47bb915" />
+<img width="1693" height="677" alt="Screenshot 2026-07-23 003430" src="https://github.com/user-attachments/assets/3f4208f7-bd68-4410-9313-a3bf98f83dfe" />
 ---
 
 ## How to Run
