@@ -1,0 +1,10 @@
+Customer-Behaviour-Analysis/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── Customer_Behaviour_Analysis.ipynb
+├── purchase_patterns_and_retention_trends.png
+├── cleaned_ecommerce_dataset.csv      (optional)
+└── ecommerce_customer_data_large.csv  (not included)
